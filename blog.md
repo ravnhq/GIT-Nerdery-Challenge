@@ -11,3 +11,6 @@ Listening to music, crochet, watching movies/series/YT vids, philosophy, learnin
 
 ## Activities
 Bastardizing code, hanging out with friends, eating pizza, drinking cocktails, late night driving
+
+## Obsession at the moment:
+![Jodie Comer in Killing Eve](/assets/images/san-juan-mountains.jpg "Jodie Comer in Killing Eve")
