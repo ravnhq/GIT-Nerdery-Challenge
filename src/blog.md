@@ -19,3 +19,8 @@ This is a text 3 for subtitle and is called task 2.
 ## This is a subtitle 4
 
 This is a text 4 for subtitle and is called task 3.
+
+
+## This is a subtitle 5 with and image
+
+![This is alt text for image](./ravn.jpg "This is a Ravn logo")
