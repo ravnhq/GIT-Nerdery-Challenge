@@ -15,3 +15,7 @@ I'm fun, cheerful, I like to code, play the guitar and sing
 # My knowledge
 
 React Js, Vue js, css
+
+# My Image
+
+![](2022-05-29-23-34-53.png)
