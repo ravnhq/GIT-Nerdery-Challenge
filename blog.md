@@ -1,0 +1,1 @@
+This is the blog for git practice, welcome.
