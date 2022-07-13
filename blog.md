@@ -7,3 +7,6 @@ feat 2 for git nerdery challenge
 feat 3 for git nerdery challenge
 ## Feat 4 subtitle
 feat 4 for git nerdery challenge
+## Subtitle for feature 2
+<img src="./src/01.png" alt="Initial Repo Image" width="100%">
+
