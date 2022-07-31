@@ -7,3 +7,5 @@
 **Some text in Third Subtitle**
 #Fourth Subtitle
 **Some text in Fourth Subtitle**
+Other subtitle
+![Pringles logo](https://seeklogo.com/images/P/pringles-logo-62748614CC-seeklogo.com.png)
