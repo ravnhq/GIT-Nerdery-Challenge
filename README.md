@@ -26,14 +26,13 @@ Welcome to this repository, in this case, you must follow the next headlines to 
 
 # Case <a name = "case"></a>
 
-As a developer and expert on Git and GitHub, you were assigned to create and modify a file .md on a remote repository,
-To follow the best practices, you need to do the changes using GitFlow.
+As a developer and expert on Git and GitHub, you were assigned to create and modify a file .md on a remote repository. For following the best practices, you need to organize and perform this challenge by using [GitFlow](https://danielkummer.github.io/git-flow-cheatsheet/).
 
-## Note: For all your commits you must be use the [conventional commits rules](https://www.conventionalcommits.org/en/v1.0.0/)
+## Note: For all your commits you must use [conventional commits rules](https://www.conventionalcommits.org/en/v1.0.0/)
 
 # Exercises<a name = "exercises"></a>
 
-1. Fork the this repository in your repositories
+1. Fork this repository.
 
 2. Clone the repository on your local machine
 <p align="center">
@@ -50,7 +49,7 @@ Then, add username and email in your git config local for this repository
 
 3. Create a new branch called `develop`
 
-4. Move to that branch
+4. Move to `develop` branch
 
    I. Create a file called `blog.md`, and add some description on this (maybe your name or something else).
 
