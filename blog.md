@@ -18,6 +18,10 @@
 - Board Sports
 - Swimming
 
+## Cool James Webb Telescope Image
+
+![Latest James Webb Telescope Capture](./src/jameswebb.jpg)
+
 #### Random Numbers
 
 -54
