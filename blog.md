@@ -15,3 +15,7 @@ Some text
 #### Subtitle 4
 
 Some text
+
+## Other subtitle
+
+![A kitten](/src/image.jpeg)
