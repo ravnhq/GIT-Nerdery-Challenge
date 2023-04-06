@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Byron Sanchez 
 # Git nerdery challenge
 from [Ravn](https://www.ravn.co).
@@ -7,3 +8,8 @@ I like pizza
 This is the way
 ## Task 3 fourth subtitle
 I like to run
+=======
+
+## feature 2 with image
+![italy is a nice country!](/images/italy-A.jpg.webp)
+>>>>>>> feature/feature2
