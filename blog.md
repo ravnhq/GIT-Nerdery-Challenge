@@ -7,3 +7,5 @@ My full name is Eduardo Justo Rodríguez Herrera
 I'm 21 years old
 ## fourth text
 My favorite color is green
+## This is an image 
+<img src="./image.jpg" alt="Example image">
