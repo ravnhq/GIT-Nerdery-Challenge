@@ -5,3 +5,6 @@
 <h2> Subtitle 2: this corresponds to task 1</h2>
 <h2> Subtitle 3: this corresponds to task 2</h2>
 <h2> Subtitle 4: this corresponds to task 3</h2>
+
+<h2>Subtitle in feat2 branch </h2>
+<image src='./src/01.png' alt='git flow image'/>
