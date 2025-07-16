@@ -10,3 +10,21 @@ Our seasoned, AI-native cross-functional software teams act as a seamless extens
 
 [Learn More!](https://www.ravn.co/)
 
+## hobbies
+
+- Watch sports
+- Go to the gym
+- linten to music
+- Road trips 
+
+## favorite movies
+
+1. The Schindler's List
+2. Avengers Infinity war
+3. F1 the movie
+
+## Favorite Series
+
+1. Loki
+2. Severance
+3. The Eternaut
